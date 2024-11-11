@@ -1,0 +1,10 @@
+/*.php
+/*.html
+/*.txt
+.htaccess
+twentytwentyfour
+wp-admin/
+wp-includes/
+wp-content/*
+!wp-content/themes/
+!wp-content/themes/earalux-wordpress-theme/
